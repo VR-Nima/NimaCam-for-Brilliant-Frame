@@ -13,13 +13,15 @@ This app was written very quickly alongside other demo apps at the Brilliant Fra
 
 ***
 
-The only dependencies that are required for this app are Python3, pip3, and the Frame-SDK for Python.
+The only dependencies that are required for this app are `python3`, `pip3`, and the `frame-sdk` for Python.
 
-If all dependencies are installed, you can run NimaCam.py from your CLI with the following command:
+If all dependencies are installed, you can run `NimaCam.py` from your CLI with the following command:
 
+```python
 python3 NimaCam.py
+```
 
-From the directory NimaCam.py is in. NimaCam will automatically start a connection with your Frame glasses and begin to run. After you exit the app, you can find your captured image in the same directory you ran NimaCam.py from.
+From the directory `NimaCam.py` is in. NimaCam will automatically start a connection with your Frame glasses and begin to run. After you exit the app, you can find your captured image in the same directory you ran `NimaCam.py` from.
 
 ***
 

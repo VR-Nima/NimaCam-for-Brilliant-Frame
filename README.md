@@ -2,6 +2,8 @@
 
 This is a simple camera app for the Brilliant Frame smartglasses written in Python. The app plays an intro describing itself, allows the user to tap to trigger a capture, and after capture is complete, prompts the user to tap to quit the app and clear the Frame's display.
 
+![A photo taken with NimaCam](https://github.com/user-attachments/assets/f7ba006c-cf54-46b6-a318-feea66e9906e)
+
 This app should run on Brilliant Frame connected over Bluetooth to any computer runnning Python3, which includes Windows, MacOS, and Linux. However, the app has only been tested and confirmed to work on MacOS.
 
 This app was written very quickly alongside other demo apps at the Brilliant Frame Launch Hackathon across a total of, like, 5 hours. All the apps I wrote heavily borrow from the work already done to write sample code for the Brilliant Frame. You can find the documentation for Brilliant Frame here: https://docs.brilliant.xyz/frame/frame/
